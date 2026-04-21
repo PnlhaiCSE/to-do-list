@@ -13,5 +13,5 @@ Một ứng dụng to-do list đơn giản để quản lý công việc hàng n
 ## Link demo
 
 ```text
-https://pnlhaiit.github.io/to-do-list/
+https://pnlhaicse.github.io/to-do-list/
 ```

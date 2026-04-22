@@ -7,7 +7,7 @@ Một ứng dụng to-do list đơn giản để quản lý công việc hàng n
 - ✅ Thêm công việc mới
 - ❌ Xóa công việc theo tên
 - 🗑️ Xóa tất cả công việc (Clear All)
--  ✓ Đánh dấu công việc đã hoàn thành
+-  ✓  Đánh dấu công việc đã hoàn thành
 - 🔄 Làm mới trạng thái
 - 💾 Lưu dữ liệu trên localStorage (không cần server)
 
